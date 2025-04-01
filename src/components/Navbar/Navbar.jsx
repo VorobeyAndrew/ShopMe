@@ -19,12 +19,12 @@ const Menu = [
   },
   {
     id: 3,
-    name: "Kids Wear",
+    name: "Kids",
     link: "/#",
   },
   {
     id: 3,
-    name: "Mens Wear",
+    name: "Mens",
     link: "/#",
   },
   {
