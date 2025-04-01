@@ -116,7 +116,7 @@ const Footer = () => {
                 </div>
                 <div className="flex items-start gap-3 mt-3 flex-col">
                   <IoCall />
-                  <p>+380 95728294</p>
+                  <p>+380 686401763</p>
                   <p> Andriy Vorobey, KI-405</p>
 
                 </div>
